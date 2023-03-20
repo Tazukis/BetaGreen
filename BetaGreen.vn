@@ -804,7 +804,7 @@ local postog12 = Instance.new("UIStroke")
  ImageLabel.BorderSizePixel = 0
  ImageLabel.Position = UDim2.new(-0.018, 0,-0.252, 0)
  ImageLabel.Size = UDim2.new(0, 45,0, 45)
- ImageLabel.Image = "rbxassetid://12511245920"
+ ImageLabel.Image = ""
  ImageLabel.ImageColor3 = Color3.fromRGB(224,224,224)
  
  Space.Name = "Space"
